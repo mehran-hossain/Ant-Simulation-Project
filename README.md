@@ -1,7 +1,7 @@
 # Ant-colony-simulation-python-pygame
 
 > Inspired By : https://github.com/Josephbakulikira/Ant-Colony-Simulation-with-python
-- Updated code for pheromone trail following
+- Implemented new pheromone trail following mechanism
 - Added energy levels for ants
 - Added memory utility for ants
 ---
